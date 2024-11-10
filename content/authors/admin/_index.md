@@ -28,70 +28,57 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sharina.hamm@yale.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/sharinahamm
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sharinahamm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sharinahamm/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=9uAyM9wAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Suicide 
+  - Computational Psychiatry
+  - Ecological Momentary Assessment
+  - Impulsivity
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD Clinical Psychology
+    institution: Yale University
+    date_start: 2024-01-09
+    date_end: 2030-01-09
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Psychology
+    institution: Leiden University
+    date_start: 2018-01-09
+    date_end: 2021-30-07
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Multivariate Statistics
+      - Specialization: Clinical Psychology, Cognitive Neuroscience, Social Psychology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Psychodiagnostic Assessment Intern
+    company_name: Child Assessment Group
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-01-02
+    date_end: 2023-30-07
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - X
+      - X
+      - X
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -180,4 +167,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shari is a graduate student in the Clinical Computational Science Lab at Yale University. Her research interests focusses on utilizing computational and mathematical models to capture the temporal dynamics of suicidal thoughts and behaviors. 
